@@ -16,9 +16,9 @@ Neste curso da [Dell](http://leadfortaleza.com.br/dal/nossos-cursos/) trabalhamo
 - 3.3 - Visualizando séries temporais
 - 4.1 - Visualizando distribuições entre categorias
 - 4.2 - Visualizando relações par a par em conjuntos de dados
-- 5 - Construindo dashboards
-- 6 - Mapas
-- 7 - Nuvem de palavras
+- 5.1 - Construindo dashboards
+- 6.1 - Mapas
+- 7.1 - Nuvem de palavras
 
 
 &nbsp;
