@@ -3,7 +3,7 @@
 
 ### 📚  Descrição
 
-Neste curso da [Dell](http://leadfortaleza.com.br/dal/nossos-cursos/) trabalhamos com a visualização de dados. 
+No curso da [Dell](http://leadfortaleza.com.br/dal/nossos-cursos/) trabalhamos com a visualização de dados. 
 
 ### 🖥️  Aulas
 
